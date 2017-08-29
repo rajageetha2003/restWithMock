@@ -35,6 +35,11 @@
             <artifactId>cucumber-extentsreport</artifactId>
             <version>1.1.1</version>
         </dependency>
+        <dependency>
+            <groupId>org.testng</groupId>
+            <artifactId>testng</artifactId>
+            <version>6.8.8</version>
+        </dependency>
     </dependencies>
     
 </project>
